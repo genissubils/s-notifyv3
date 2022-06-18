@@ -1,7 +1,7 @@
 # s-notifyv3
 Mensaje del extended:
 
-Preview: https://streamable.com/9csra6``
+Preview: https://streamable.com/9csra6
 Discord:  https://discord.gg/SNDpBw8E57 
 
 ```/es_extended/client/functions.lua
