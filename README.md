@@ -8,4 +8,4 @@ ESX.ShowNotification = function(title, msg, duration)
         msg = msg,
         duration = duration or 5000
     })
-end```
+end
